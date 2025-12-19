@@ -88,10 +88,10 @@ npm run dev
 
 | Role | Responsibility |
 |------|----------------|
-| **Member 1** | Routing & Layout (Navbar, page structure) |
-| **Member 2** | UI Components (ProjectCard, TaskCard, Columns) |
-| **Member 3** | API & State Logic (fetching, organizing tasks) |
-| **Member 4** | Forms (Add Task, Add Project) |
+| **Yahia Zakaria** | Routing & Layout (Navbar, page structure) |
+| **Diaa Badawy** | UI Components (ProjectCard, TaskCard, Columns) |
+| **Saif Shehata** | API & State Logic (fetching, organizing tasks) |
+| **Elsaid Ali** | Forms (Add Task, Add Project) |
 
 ## 🌐 API
 
